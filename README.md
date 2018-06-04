@@ -1,2 +1,7 @@
 # hello-cops
-a step to learn how to use github
+Hi whomsoever is reading,
+
+this is just a part of learning github, from next time onwards there will not be any boring readme files
+in my later projects.
+
+Thank You
